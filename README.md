@@ -1,7 +1,7 @@
 # weeklyCalendar
 VUE周日历组件
 
-[在线DEMO](http://lianggecainiao.com/test2)
+[在线DEMO](http://lianggecainiao.com/weeklyCalendar)
 
 # 运行步骤
 
